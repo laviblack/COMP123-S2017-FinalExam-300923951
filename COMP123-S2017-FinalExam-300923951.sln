@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 14
-VisualStudioVersion = 14.0.25420.1
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.16
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "COMP123-S2017-FinalExam-StudentID", "COMP123-S2017-FinalExam-StudentID\COMP123-S2017-FinalExam-StudentID.csproj", "{0BD85102-0B94-44E1-83D5-21C64783649A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "COMP123-S2017-FinalExam-300923951", "COMP123-S2017-FinalExam-StudentID\COMP123-S2017-FinalExam-300923951.csproj", "{0BD85102-0B94-44E1-83D5-21C64783649A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

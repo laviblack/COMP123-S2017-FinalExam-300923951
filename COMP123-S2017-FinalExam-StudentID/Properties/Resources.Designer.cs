@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace COMP123_S2017_FinalExam_StudentID.Properties
+namespace COMP123_S2017_FinalExam_300923951.Properties
 {
     using System;
 
@@ -45,7 +45,7 @@ namespace COMP123_S2017_FinalExam_StudentID.Properties
             {
                 if (object.ReferenceEquals(resourceMan, null))
                 {
-                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("COMP123_S2017_FinalExam_StudentID.Properties.Resources", typeof(Resources).Assembly);
+                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("COMP123_S2017_FinalExam_300923951.Properties.Resources", typeof(Resources).Assembly);
                     resourceMan = temp;
                 }
                 return resourceMan;

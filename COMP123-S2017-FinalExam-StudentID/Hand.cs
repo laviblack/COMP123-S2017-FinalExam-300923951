@@ -11,7 +11,7 @@ using System.Text;
  * Version: 0.1 - Created the Hand class
  */
 
-namespace COMP123_S2017_FinalExam_StudentID
+namespace COMP123_S2017_FinalExam_300923951
 {
     public class Hand : CardList
     {

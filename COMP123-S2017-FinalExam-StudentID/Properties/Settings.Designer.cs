@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace COMP123_S2017_FinalExam_StudentID.Properties
+namespace COMP123_S2017_FinalExam_300923951.Properties
 {
 
 
